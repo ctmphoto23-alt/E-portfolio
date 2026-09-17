@@ -146,6 +146,12 @@ nav {
   flex-direction: column;
 }
 
+.about-me__link {
+  font-size: 20px;
+  color: #242424;
+  width: 40px;
+  height: 40px;
+}
 .about-me__info--container {
   display: flex;
   flex-direction: column;
